@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-david-oistrakh-thumbnail.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

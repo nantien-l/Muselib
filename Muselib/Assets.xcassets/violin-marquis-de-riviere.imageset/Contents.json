@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "violin-marquis-de-riviere.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

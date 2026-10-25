@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-isaac-stern.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

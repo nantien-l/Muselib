@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-soobeen-lee.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

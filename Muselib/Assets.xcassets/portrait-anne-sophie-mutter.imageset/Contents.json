@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-anne-sophie-mutter.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

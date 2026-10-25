@@ -1,45 +1,65 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var selectedViolinIndex = 0
+  @State private var selection: LibrarySection? = .discover
 
-    private var selectedViolin: Violin {
-        violins[selectedViolinIndex]
-    }
-
-    var body: some View {
-        NavigationStack {
-            ScrollView {
-                VStack(spacing: 24) {
-                    VStack(spacing: 16) {
-                        Image(systemName: "music.note")
-                            .font(.system(size: 72, weight: .light))
-                            .foregroundStyle(.blue)
-                            .frame(width: 210, height: 280)
-                            .background(.gray.opacity(0.18))
-                            .clipShape(RoundedRectangle(cornerRadius: 20))
-                            .accessibilityHidden(true)
-
-                        Text(selectedViolin.name)
-                            .font(.largeTitle.weight(.semibold))
-                            .multilineTextAlignment(.center)
-                    }
-
-                    InfoView(violin: selectedViolin)
-
-                    Button("介紹另一把琴") {
-                        selectedViolinIndex = Int.random(in: violins.indices)
-                    }
-                    .buttonStyle(.glass)
-                }
-                .padding()
+  var body: some View {
+    #if os(iOS)
+      NavigationStack {
+        List {
+          NavigationLink(value: LibrarySection.discover) {
+            Label("Discover", systemImage: LibrarySection.discover.symbol)
+          }
+          Section("LIBRARY") {
+            ForEach([LibrarySection.repertoire, .composers, .violinists]) { section in
+              NavigationLink(value: section) {
+                Label(section.rawValue, systemImage: section.symbol)
+              }
             }
-            .navigationTitle("名琴介紹")
-            .navigationBarTitleDisplayMode(.inline)
+          }
+          Section("YOUR COLLECTION") {
+            NavigationLink(value: LibrarySection.saved) {
+              Label("Saved", systemImage: LibrarySection.saved.symbol)
+            }
+          }
         }
+        .navigationTitle("Muselib")
+        .navigationDestination(for: LibrarySection.self) { section in
+          destination(for: section)
+        }
+      }
+    #else
+    NavigationSplitView {
+      List(selection: $selection) {
+        Label("Discover", systemImage: LibrarySection.discover.symbol)
+          .tag(LibrarySection.discover)
+        Section("LIBRARY") {
+          ForEach([LibrarySection.repertoire, .composers, .violinists]) { section in
+            Label(section.rawValue, systemImage: section.symbol).tag(section)
+          }
+        }
+        Section("YOUR COLLECTION") {
+          Label("Saved", systemImage: LibrarySection.saved.symbol).tag(LibrarySection.saved)
+        }
+      }
+      .navigationTitle("Muselib")
+      .navigationSplitViewColumnWidth(min: 200, ideal: 230)
+    } detail: {
+      NavigationStack {
+        destination(for: selection ?? .discover)
+      }
     }
+    #endif
+  }
+
+  @ViewBuilder
+  private func destination(for section: LibrarySection) -> some View {
+    if section == .discover {
+      ListeningRoom()
+    } else {
+      WorkLibrary(section: section)
+    }
+  }
 }
 
-#Preview {
-    ContentView()
-}
+#Preview { ContentView() }

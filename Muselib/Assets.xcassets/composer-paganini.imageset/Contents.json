@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "composer-paganini.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

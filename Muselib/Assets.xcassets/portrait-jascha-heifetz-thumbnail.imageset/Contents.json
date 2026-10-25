@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-jascha-heifetz-thumbnail.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
