@@ -6,9 +6,9 @@
 
 ## App 預覽
 
-點選下方預覽圖，觀看 Muselib 演奏者列表的短片示範。
+以下 GIF 展示 Muselib 的主要導覽與使用流程。
 
-[![Muselib 演奏者列表預覽](Assets/Demo/Muselib-Jooha-preview.png)](Assets/Demo/Muselib-Jooha.mov)
+![Muselib App 操作示範](Assets/Demo/Muselib-Jooha.gif)
 
 
 ## 探索 Muselib
