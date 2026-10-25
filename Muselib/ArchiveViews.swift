@@ -43,7 +43,8 @@ struct PerformerPage: View {
             VStack(alignment: .leading, spacing: 6) {
               WorkRow(work: work)
               if !work.versions.contains(where: { $0.performerID == performer.id }) {
-                Text("題獻與歷史關聯").font(.caption).foregroundStyle(.secondary)
+                Text(work.recommendedPerformerIDs.contains(performer.id) ? "推薦配對 · 尚未核實錄音" : "題獻與歷史關聯")
+                  .font(.caption).foregroundStyle(.secondary)
               }
             }
           }

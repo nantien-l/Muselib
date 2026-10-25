@@ -6,8 +6,10 @@ struct PerformancePlayback {
     let videoID: String
     let publisher: String
     var startSeconds: Int? = nil
+    var sourceURL: URL? = nil
 
     var url: URL {
+        if let sourceURL { return sourceURL }
         var components = URLComponents(string: "https://www.youtube.com/watch")!
         var query = [URLQueryItem(name: "v", value: videoID)]
         if let startSeconds {

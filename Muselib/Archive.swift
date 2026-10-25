@@ -17,7 +17,9 @@ struct Performer: Identifiable {
   var equipment: [Equipment] {
     equipmentIDs.compactMap { key in instrumentArchive.first { $0.id == key } }
   }
-  var works: [MusicalWork] { repertoire.filter { $0.performerIDs.contains(id) } }
+  var works: [MusicalWork] {
+    repertoire.filter { $0.performerIDs.contains(id) || $0.recommendedPerformerIDs.contains(id) }
+  }
 }
 
 struct Equipment: Identifiable {

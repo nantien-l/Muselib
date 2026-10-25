@@ -21,8 +21,14 @@ struct MusicalWork: Identifiable, Hashable {
     }
   }
   var performers: [Performer] {
-    performerIDs.compactMap { performerID in artists.first { $0.id == performerID } }
+    (performerIDs + recommendedPerformerIDs).reduce(into: [Performer]()) { result, performerID in
+      guard !result.contains(where: { $0.id == performerID }),
+            let performer = artists.first(where: { $0.id == performerID }) else { return }
+      result.append(performer)
+    }
   }
+
+  var recommendedPerformerIDs: [String] { recommendedPerformers[id] ?? [] }
 
 }
 
@@ -148,4 +154,9 @@ let coreRepertoire: [MusicalWork] = [
     ], source: "https://www.henle.de/Violin-Sonata-d-minor-op.-108/HN-1570"),
 ]
 
-let repertoire: [MusicalWork] = coreRepertoire + expandedRepertoire
+let repertoire: [MusicalWork] = coreRepertoire + expandedRepertoire + plannedRepertoire
+
+// The one explicitly requested recommendation. Other pairings are not enabled.
+let recommendedPerformers: [String: [String]] = [
+  "vasks-vox-amoris": ["jooha-choi"],
+]

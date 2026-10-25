@@ -148,7 +148,8 @@ private struct ConnectionsView: View {
             VStack(alignment: .leading, spacing: 8) {
               PerformerRow(performer: performer)
               if !work.versions.contains(where: { $0.performerID == performer.id }) {
-                Text("作品歷史關聯").font(.caption).foregroundStyle(.secondary)
+                Text(work.recommendedPerformerIDs.contains(performer.id) ? "推薦演奏家 · 尚未核實此曲錄音" : "作品歷史關聯")
+                  .font(.caption).foregroundStyle(.secondary)
               }
             }
           }

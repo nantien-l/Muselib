@@ -1,6 +1,6 @@
-# Muselib：60 首候選曲目（修訂版）
+# Muselib：60 首曲目策展清單（修訂版）
 
-60 首目標曲庫的編輯清單。App 現已收錄原有 12 首及本次新增 12 首，共 24 首、20 位作曲家；其餘 36 首仍是待製作候選。新增作品先完成作品導讀與來源，精選錄音與實聽段落另行核對，不以目前人物名單限制選曲。
+60 首目標曲庫的編輯清單。App 已收錄完整 60 首作品，涵蓋 20 位作曲家。作品導讀與來源已建立；精選錄音與實聽段落仍須逐筆核對，不以推薦配對取代錄音證據。
 
 ## 本次選曲決定
 
@@ -15,7 +15,7 @@
 
 ## 本次新增的 12 首
 
-前兩首為本次指定，後十首為新提案。作品與導聆已加入 App；尚未指定演奏家，也未當作某份錄音的實聽結論。
+前兩首為本次指定，後十首為新提案。作品與導聆已加入 App。推薦演奏家只作配對參照；未核實的錄音不建立演奏版本，也不當作實聽結論。
 
 | 作曲家 | 作品 | 選入理由／導聆切入 |
 | --- | --- | --- |
@@ -47,7 +47,7 @@
 | Felix Mendelssohn | String Quartet No. 6 in F minor · Op. 80 |
 | Niccolò Paganini | La campanella · Violin Concerto No. 2, Op. 7, III |
 
-## 完整 60 首候選
+## 完整 60 首曲目
 
 A、B、C 各 20 首，是編輯順序，不是難度或產品分類。聆聽方向為提案，須對照選定演出確認。
 
@@ -56,30 +56,30 @@ A、B、C 各 20 首，是編輯順序，不是難度或產品分類。聆聽方
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Ciaccona · BWV 1004 | 無伴奏 | 交替的旋律與低音 | A | 現有 |
-| 02 | Sonata No. 1 in G minor · BWV 1001 | 無伴奏 | 和弦與單線旋律的對比 | C | 候選 |
-| 03 | Sonata No. 2 in A minor · BWV 1003 | 無伴奏 | 單一聲部如何建立和聲 | C | 候選 |
-| 04 | Sonata No. 3 in C major · BWV 1005 | 無伴奏 | 在長篇段落中辨認主題 | C | 候選 |
-| 05 | Partita No. 1 in B minor · BWV 1002 | 無伴奏 | 舞曲與 Double 的成對變化 | C | 候選 |
-| 06 | Partita No. 3 in E major · BWV 1006 | 無伴奏 | 從連續音群走向舞曲 | B | 候選 |
-| 07 | Violin Concerto in A minor · BWV 1041 | 協奏曲 | 獨奏與合奏的反覆材料 | C | 候選 |
-| 08 | Concerto for Two Violins in D minor · BWV 1043 | 雙小提琴協奏曲 | 兩位獨奏者如何接續 | B | 候選 |
+| 02 | Sonata No. 1 in G minor · BWV 1001 | 無伴奏 | 和弦與單線旋律的對比 | C | 已加入 |
+| 03 | Sonata No. 2 in A minor · BWV 1003 | 無伴奏 | 單一聲部如何建立和聲 | C | 已加入 |
+| 04 | Sonata No. 3 in C major · BWV 1005 | 無伴奏 | 在長篇段落中辨認主題 | C | 已加入 |
+| 05 | Partita No. 1 in B minor · BWV 1002 | 無伴奏 | 舞曲與 Double 的成對變化 | C | 已加入 |
+| 06 | Partita No. 3 in E major · BWV 1006 | 無伴奏 | 從連續音群走向舞曲 | B | 已加入 |
+| 07 | Violin Concerto in A minor · BWV 1041 | 協奏曲 | 獨奏與合奏的反覆材料 | C | 已加入 |
+| 08 | Concerto for Two Violins in D minor · BWV 1043 | 雙小提琴協奏曲 | 兩位獨奏者如何接續 | B | 已加入 |
 
 ### Ludwig van Beethoven
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 09 | Violin Concerto in D major · Op. 61 | 協奏曲 | 定音鼓節奏如何回返 | A | 現有 |
-| 10 | Violin Sonata No. 5 in F major “Spring” · Op. 24 | 小提琴與鋼琴 | 旋律在兩件樂器間交接 | A | 候選 |
-| 11 | Violin Sonata No. 7 in C minor · Op. 30 No. 2 | 小提琴與鋼琴 | 重音與節奏形成的張力 | C | 候選 |
-| 12 | Violin Sonata No. 9 in A major “Kreutzer” · Op. 47 | 小提琴與鋼琴 | 開場與快速段落的對比 | B | 候選 |
+| 10 | Violin Sonata No. 5 in F major “Spring” · Op. 24 | 小提琴與鋼琴 | 旋律在兩件樂器間交接 | A | 已加入 |
+| 11 | Violin Sonata No. 7 in C minor · Op. 30 No. 2 | 小提琴與鋼琴 | 重音與節奏形成的張力 | C | 已加入 |
+| 12 | Violin Sonata No. 9 in A major “Kreutzer” · Op. 47 | 小提琴與鋼琴 | 開場與快速段落的對比 | B | 已加入 |
 
 ### Johannes Brahms
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 13 | Konzert für Violine und Orchester · Op. 77 | 協奏曲 | 獨奏接過樂團的長篇材料 | A | 現有 |
-| 14 | Sonate für Klavier und Violine Nr. 1 · Op. 78 | 小提琴與鋼琴 | 同一旋律如何維持長句 | A | 候選 |
-| 15 | Sonate für Klavier und Violine Nr. 2 · Op. 100 | 小提琴與鋼琴 | 旋律與鋼琴內聲部 | B | 候選 |
+| 14 | Sonate für Klavier und Violine Nr. 1 · Op. 78 | 小提琴與鋼琴 | 同一旋律如何維持長句 | A | 已加入 |
+| 15 | Sonate für Klavier und Violine Nr. 2 · Op. 100 | 小提琴與鋼琴 | 旋律與鋼琴內聲部 | B | 已加入 |
 | 16 | Sonate für Klavier und Violine Nr. 3 · Op. 108 | 小提琴與鋼琴 | 鋼琴如何推動小提琴的長句 | A | 現有 |
 
 ### Felix Mendelssohn
@@ -87,51 +87,51 @@ A、B、C 各 20 首，是編輯順序，不是難度或產品分類。聆聽方
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 17 | Violin Concerto in E minor · Op. 64 | 協奏曲 | 獨奏直接進入的開場 | A | 現有 |
-| 18 | Octet in E-flat major · Op. 20 | 弦樂八重奏 | 多件弦樂的層次與分組 | C | 候選 |
-| 19 | String Quartet No. 6 in F minor · Op. 80 | 弦樂四重奏 | 急迫的齊奏與慢樂章形成對比 | A | 候選 |
+| 18 | Octet in E-flat major · Op. 20 | 弦樂八重奏 | 多件弦樂的層次與分組 | C | 已加入 |
+| 19 | String Quartet No. 6 in F minor · Op. 80 | 弦樂四重奏 | 急迫的齊奏與慢樂章形成對比 | A | 已加入 |
 
 ### Antonio Vivaldi
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 20 | La primavera · RV 269 | 協奏曲 | 短小音型如何建立場景 | B | 候選 |
-| 21 | L’estate · RV 315 | 協奏曲 | 音量與節奏如何累積張力 | B | 候選 |
-| 22 | L’autunno · RV 293 | 協奏曲 | 合奏中的舞蹈節奏 | C | 候選 |
+| 20 | La primavera · RV 269 | 協奏曲 | 短小音型如何建立場景 | B | 已加入 |
+| 21 | L’estate · RV 315 | 協奏曲 | 音量與節奏如何累積張力 | B | 已加入 |
+| 22 | L’autunno · RV 293 | 協奏曲 | 合奏中的舞蹈節奏 | C | 已加入 |
 | 23 | L’inverno · RV 297 | 協奏曲 | 短促顫動與長句的對比 | A | 現有 |
-| 24 | Violin Concerto in A minor · RV 356 / Op. 3 No. 6 | 協奏曲 | 辨認反覆回來的合奏材料 | C | 候選 |
-| 25 | Concerto for Two Violins in A minor · RV 522 / Op. 3 No. 8 | 雙小提琴協奏曲 | 兩位獨奏者的模仿與交接 | C | 候選 |
+| 24 | Violin Concerto in A minor · RV 356 / Op. 3 No. 6 | 協奏曲 | 辨認反覆回來的合奏材料 | C | 已加入 |
+| 25 | Concerto for Two Violins in A minor · RV 522 / Op. 3 No. 8 | 雙小提琴協奏曲 | 兩位獨奏者的模仿與交接 | C | 已加入 |
 
 ### Pyotr Ilyich Tchaikovsky
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 26 | Violin Concerto in D major · Op. 35 | 協奏曲 | 長句的歌唱與舞蹈節奏 | A | 現有 |
-| 27 | Sérénade mélancolique · Op. 26 | 小提琴與樂團 | 旋律的音色與句尾 | A | 候選 |
-| 28 | Valse-Scherzo · Op. 34 | 小提琴與樂團 | 三拍子的重音與彈性 | C | 候選 |
-| 29 | Souvenir d’un lieu cher · Op. 42 | 小提琴與鋼琴 | 三首小品的性格對比 | B | 候選 |
-| 30 | Souvenir de Florence · Op. 70 | 弦樂六重奏 | 小提琴如何置身多個聲部 | C | 候選 |
+| 27 | Sérénade mélancolique · Op. 26 | 小提琴與樂團 | 旋律的音色與句尾 | A | 已加入 |
+| 28 | Valse-Scherzo · Op. 34 | 小提琴與樂團 | 三拍子的重音與彈性 | C | 已加入 |
+| 29 | Souvenir d’un lieu cher · Op. 42 | 小提琴與鋼琴 | 三首小品的性格對比 | B | 已加入 |
+| 30 | Souvenir de Florence · Op. 70 | 弦樂六重奏 | 小提琴如何置身多個聲部 | C | 已加入 |
 
 ### Henryk Wieniawski
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 31 | Violin Concerto No. 2 in D minor · Op. 22 | 協奏曲 | 歌唱如何穿過技巧段落 | A | 現有 |
-| 32 | Violin Concerto No. 1 in F-sharp minor · Op. 14 | 協奏曲 | 與第二號比較獨奏的安排 | B | 候選 |
-| 33 | Scherzo-Tarantelle · Op. 16 | 小提琴與鋼琴 | 急促節奏與 Cantabile 的對比 | A | 候選 |
-| 34 | Légende · Op. 17 | 小提琴與鋼琴 | 短篇中的張力與收束 | A | 候選 |
-| 35 | Thème original varié · Op. 15 | 小提琴與鋼琴 | 主題在變奏中如何保留輪廓 | B | 候選 |
-| 36 | Polonaise brillante in A major · Op. 21 | 小提琴與鋼琴 | 波蘭舞曲的節奏重心 | C | 候選 |
+| 32 | Violin Concerto No. 1 in F-sharp minor · Op. 14 | 協奏曲 | 與第二號比較獨奏的安排 | B | 已加入 |
+| 33 | Scherzo-Tarantelle · Op. 16 | 小提琴與鋼琴 | 急促節奏與 Cantabile 的對比 | A | 已加入 |
+| 34 | Légende · Op. 17 | 小提琴與鋼琴 | 短篇中的張力與收束 | A | 已加入 |
+| 35 | Thème original varié · Op. 15 | 小提琴與鋼琴 | 主題在變奏中如何保留輪廓 | B | 已加入 |
+| 36 | Polonaise brillante in A major · Op. 21 | 小提琴與鋼琴 | 波蘭舞曲的節奏重心 | C | 已加入 |
 
 ### Niccolò Paganini
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 37 | Capriccio No. 24 · Op. 1 No. 24 | 無伴奏 | 同一主題的不同音型 | A | 現有 |
-| 38 | Capriccio No. 1 · Op. 1 No. 1 | 無伴奏 | 跨弦帶來的聲音層次 | B | 候選 |
-| 39 | Capriccio No. 5 · Op. 1 No. 5 | 無伴奏 | 快速音群的方向與重音 | C | 候選 |
-| 40 | Violin Concerto No. 1 in D major · Op. 6 | 協奏曲 | 獨奏技巧與樂團段落的對比 | C | 候選 |
-| 41 | Cantabile in D major | 小提琴與鋼琴 | 技巧之外的歌唱線條 | C | 候選 |
-| 42 | La campanella · Violin Concerto No. 2, Op. 7, III | 小提琴與樂團 | 鐘聲、跳躍音型與反覆主題 | A | 候選 |
+| 38 | Capriccio No. 1 · Op. 1 No. 1 | 無伴奏 | 跨弦帶來的聲音層次 | B | 已加入 |
+| 39 | Capriccio No. 5 · Op. 1 No. 5 | 無伴奏 | 快速音群的方向與重音 | C | 已加入 |
+| 40 | Violin Concerto No. 1 in D major · Op. 6 | 協奏曲 | 獨奏技巧與樂團段落的對比 | C | 已加入 |
+| 41 | Cantabile in D major | 小提琴與鋼琴 | 技巧之外的歌唱線條 | C | 已加入 |
+| 42 | La campanella · Violin Concerto No. 2, Op. 7, III | 小提琴與樂團 | 鐘聲、跳躍音型與反覆主題 | A | 已加入 |
 
 ### César Franck
 
@@ -144,11 +144,11 @@ A、B、C 各 20 首，是編輯順序，不是難度或產品分類。聆聽方
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
 | 44 | Violin Concerto in D minor · Op. 47 | 協奏曲 | 獨奏與樂團的聲音比例 | A | 現有 |
-| 45 | Romance · Op. 78 No. 2 | 小提琴與鋼琴 | 短旋律如何延伸成長句 | C | 候選 |
-| 46 | Mazurka · Op. 81 No. 1 | 小提琴與鋼琴 | 三拍子裡重音的位置 | A | 候選 |
-| 47 | Rondino · Op. 81 No. 2 | 小提琴與鋼琴 | 短小材料反覆時的變化 | C | 候選 |
-| 48 | Humoresque No. 1 · Op. 87 No. 1 | 小提琴與樂團 | 短篇中的音色與段落轉折 | C | 候選 |
-| 49 | Humoresque No. 2 · Op. 87 No. 2 | 小提琴與樂團 | 獨奏發音與伴奏的互動 | C | 候選 |
+| 45 | Romance · Op. 78 No. 2 | 小提琴與鋼琴 | 短旋律如何延伸成長句 | C | 已加入 |
+| 46 | Mazurka · Op. 81 No. 1 | 小提琴與鋼琴 | 三拍子裡重音的位置 | A | 已加入 |
+| 47 | Rondino · Op. 81 No. 2 | 小提琴與鋼琴 | 短小材料反覆時的變化 | C | 已加入 |
+| 48 | Humoresque No. 1 · Op. 87 No. 1 | 小提琴與樂團 | 短篇中的音色與段落轉折 | C | 已加入 |
+| 49 | Humoresque No. 2 · Op. 87 No. 2 | 小提琴與樂團 | 獨奏發音與伴奏的互動 | C | 已加入 |
 
 ### Pēteris Vasks
 
@@ -160,56 +160,56 @@ A、B、C 各 20 首，是編輯順序，不是難度或產品分類。聆聽方
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 51 | Sonate pour violon seul No. 3 “Ballade” · Op. 27 No. 3 | 無伴奏 | 自由的開場如何轉為強烈節奏 | B | 候選 |
+| 51 | Sonate pour violon seul No. 3 “Ballade” · Op. 27 No. 3 | 無伴奏 | 自由的開場如何轉為強烈節奏 | B | 已加入 |
 
 ### Maurice Ravel
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 52 | Tzigane · M. 76 | 小提琴與鋼琴／樂團 | 從長段獨奏到伴奏進入的聲響變化 | B | 候選 |
+| 52 | Tzigane · M. 76 | 小提琴與鋼琴／樂團 | 從長段獨奏到伴奏進入的聲響變化 | B | 已加入 |
 
 ### Claude Debussy
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 53 | Sonate pour violon et piano en sol mineur | 小提琴與鋼琴 | 短小動機、色彩與突如其來的轉折 | B | 候選 |
+| 53 | Sonate pour violon et piano en sol mineur | 小提琴與鋼琴 | 短小動機、色彩與突如其來的轉折 | B | 已加入 |
 
 ### Sergei Prokofiev
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 54 | Violin Concerto No. 1 in D major · Op. 19 | 協奏曲 | 歌唱的長句與尖銳發音之間的反差 | B | 候選 |
-| 55 | Violin Concerto No. 2 in G minor · Op. 63 | 協奏曲 | 獨奏開場、慢樂章與終樂章的性格轉換 | B | 候選 |
+| 54 | Violin Concerto No. 1 in D major · Op. 19 | 協奏曲 | 歌唱的長句與尖銳發音之間的反差 | B | 已加入 |
+| 55 | Violin Concerto No. 2 in G minor · Op. 63 | 協奏曲 | 獨奏開場、慢樂章與終樂章的性格轉換 | B | 已加入 |
 
 ### Dmitri Shostakovich
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 56 | Violin Concerto No. 1 in A minor · Op. 77 / 99 | 協奏曲 | 從 Passacaglia 接入 cadenza，再走向終樂章 | B | 候選 |
+| 56 | Violin Concerto No. 1 in A minor · Op. 77 / 99 | 協奏曲 | 從 Passacaglia 接入 cadenza，再走向終樂章 | B | 已加入 |
 
 ### Béla Bartók
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 57 | Sonata for Solo Violin · Sz. 117 / BB 124 | 無伴奏 | 和弦、多聲部與不同發音的音色對比 | B | 候選 |
+| 57 | Sonata for Solo Violin · Sz. 117 / BB 124 | 無伴奏 | 和弦、多聲部與不同發音的音色對比 | B | 已加入 |
 
 ### Karol Szymanowski
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 58 | Mythes · Op. 30 | 小提琴與鋼琴 | 以 La fontaine d’Aréthuse 探索音色與鋼琴織度 | B | 候選 |
+| 58 | Mythes · Op. 30 | 小提琴與鋼琴 | 以 La fontaine d’Aréthuse 探索音色與鋼琴織度 | B | 已加入 |
 
 ### Ernest Chausson
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 59 | Poème · Op. 25 | 小提琴與樂團 | 自由段落如何累積成高潮，再收回安靜 | B | 候選 |
+| 59 | Poème · Op. 25 | 小提琴與樂團 | 自由段落如何累積成高潮，再收回安靜 | B | 已加入 |
 
 ### Antonín Dvořák
 
 | # | 作品 | 編制 | 聆聽方向 | 批次 | 狀態 |
 | --- | --- | --- | --- | --- | --- |
-| 60 | Violin Concerto in A minor · Op. 53 | 協奏曲 | 外側樂章的節奏與慢樂章的歌唱 | B | 候選 |
+| 60 | Violin Concerto in A minor · Op. 53 | 協奏曲 | 外側樂章的節奏與慢樂章的歌唱 | B | 已加入 |
 
 ## 收錄與版本原則
 
